@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "748085143128",
+    "project_id": "mobile-ojt",
+    "storage_bucket": "mobile-ojt.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:748085143128:android:f37f586a87e61c79748c2d",
+        "android_client_info": {
+          "package_name": "com.example.mobile_ojt_task"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDckdFFPh3cf_DrQ_MALvRogUKItJ8vtmc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
